@@ -1,6 +1,4 @@
 .env
-
-package.json
 public/
 node_modules/
 index.js
